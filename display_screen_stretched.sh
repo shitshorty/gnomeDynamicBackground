@@ -1,2 +1,2 @@
 #!/bin/bash
-gsettings range org.gnome.desktop.background picture-options 'stretched'
+gsettings set org.gnome.desktop.background picture-options 'stretched'
