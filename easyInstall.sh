@@ -21,5 +21,3 @@ sudo rm -r gnomeDynamicBackground
 echo "    |"
 echo "    '---> Deleted downloaded files!"
 echo "Done!!"
-
-gsettings set org.gnome.desktop.background picture-options 'stretched'
